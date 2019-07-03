@@ -1,0 +1,11 @@
+alpha
+weight:5
+priority:5
+
+omega
+weight:1
+priority:6
+
+beta
+weight:6
+priority:6
